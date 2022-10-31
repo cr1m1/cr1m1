@@ -5,10 +5,10 @@
   <img src="https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif" width="150"/>
 </div>
 
-<a align="center" href="https://github.com/cr1m1">
+<div align="center">
   <img height="200em" width="380rem" src="https://github-readme-stats.vercel.app/api?username=cr1m1&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="cr1m1" />
   <img height="200em" width="380rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cr1m1&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="cr1m1" />
-</a>
+</div>
 <!--
 **cr1m1/cr1m1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
