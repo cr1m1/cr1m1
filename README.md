@@ -6,8 +6,8 @@
 </div>
 
 <div align="center">
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=cr1m1&show_icons=true&theme=tokyonight&locale=en" alt="cr1m1" width="200px" height="200px" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=cr1m1&show_icons=true&count_private=true&theme=tokyonight&locale=en&layout=compact" alt="cr1m1" width="200px" height="200px" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=cr1m1&show_icons=true&theme=tokyonight&locale=en" alt="cr1m1" width="500px" height="500px" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=cr1m1&show_icons=true&count_private=true&theme=tokyonight&locale=en&layout=compact" alt="cr1m1" width="500px" height="500px" /></p>
 </div>
 <!--
 **cr1m1/cr1m1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
