@@ -1,9 +1,8 @@
 name: Waka Readme
 
-
 on:
   push:
-    branches: [master]
+    branches: [main]
   schedule:
     - cron: '* * * * *'
   workflow_dispatch:
@@ -12,7 +11,7 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: cr1m1/cr1m1@master
+      - uses: cr1m1/cr1m1@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_LINES_OF_CODE: "True"
