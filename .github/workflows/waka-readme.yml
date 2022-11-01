@@ -12,6 +12,6 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: cr1m1/cr1m1@main
+      - uses: cr1m1/waka-readme@latest
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
