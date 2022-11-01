@@ -11,10 +11,4 @@
 </div> -->
 
 <!--START_SECTION:waka-->
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/cr1m1/cr1m1/main/charts/bar_graph.png) 
-
-
- Last Updated on 01/11/2022 17:41:42 UTC
 <!--END_SECTION:waka-->
